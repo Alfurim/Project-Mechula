@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Wall
+  - Ground
+  - Death
+  - Health Pack
+  - Blood Pack
+  - Enemy
   layers:
   - Default
   - TransparentFX
